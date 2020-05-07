@@ -1,2 +1,2 @@
 # XSGuard-Resources
-Publiczne grafiki XSGuard
+Publiczne zasoby graficzne XSGuard
