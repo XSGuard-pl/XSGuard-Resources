@@ -1,5 +1,5 @@
 # 🛡️ resource-pack
-* Wszystkie dostępne zasoby graficzne dla paczki XSGuard
+* Publiczne loga, oraz inne obrazy XSGuard dla użytkowników
 
 # Aktualna zawartość z opisem
 `resource-pack\icons\normal\*.png` - Ikony w rozmiarach od 16x16 aż do 1024x1024
